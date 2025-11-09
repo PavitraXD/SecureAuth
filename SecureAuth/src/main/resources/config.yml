@@ -1,0 +1,11 @@
+# Authentication settings
+max-attempts: 3
+session-timeout: 300  # seconds, 0 to disable
+
+# Player tags
+cracked-prefix: "&c&lCRACKED &7| &f"
+premium-prefix: "&a&lPREMIUM &7| &f"
+
+# Security
+kick-on-max-attempts: true
+login-timeout: 60  # seconds to login before kick

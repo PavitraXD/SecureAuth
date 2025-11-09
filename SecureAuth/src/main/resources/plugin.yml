@@ -1,0 +1,11 @@
+name: SecureAuth
+version: 1.0
+main: SecureAuth
+api-version: 1.21
+commands:
+  register:
+    usage: /register <password>
+  login:
+    usage: /login <password>
+  changepassword:
+    usage: /changepassword <old> <new>
